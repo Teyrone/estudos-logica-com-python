@@ -396,7 +396,7 @@ Entender as bibliotecas e como elas operam é fundamental para qualquer desenvol
 
 
 
-Glossário:
+Glossário: primeira modificação
 
 Interpretador:
 
